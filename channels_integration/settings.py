@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'rest_framework',
     # Project installed apps
     'channels_integration.channels',
+    'channels_integration.buyer',
 ]
 
 MIDDLEWARE = [
